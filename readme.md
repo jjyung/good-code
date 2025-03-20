@@ -50,7 +50,7 @@
 | 4.24             | src/chapter04_immutable/mutator/v1/                            |
 | 4.25             | src/chapter04_immutable/mutator/v2/                            |
 
-## 第 5 章 低凝聚力 - 分崩離析的事物
+## 第 5 章 低內聚 - 分崩離析的事物
 
 | Section  | Class                                                                 |
 |:---------|:----------------------------------------------------------------------|
@@ -77,7 +77,7 @@
 | 5.29     | src/chapter05_lowcohesionseries/magic/v2/MagicPoint.java              |
 | 5.31     | src/chapter05_lowcohesionseries/methodchain/Equipments.java           |
 
-## 第 6 章 條件分支：解開分支迷宮的技巧
+## 第 6 章 條件判斷：解開分支迷宮的技巧
 
 | Section                | Class                                                                         |
 |:-----------------------|:------------------------------------------------------------------------------|
@@ -135,7 +135,7 @@
 | 6.65                   | src/chapter06_conditionbranch/flagvariable/v3/DamageType.java                 |
 | 6.65                   | src/chapter06_conditionbranch/flagvariable/v3/ApplyDamageLogic.java           |
 
-## 第 7 章 集合：建構消除嵌套的技術
+## 第 7 章 集合：消除巢狀結構的技術
 
 | Section | Class                                                |
 |:--------|:-----------------------------------------------------|
